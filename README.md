@@ -1,5 +1,5 @@
 # EFI Opencore 0.6.5 for Gigabyte Z490UD
-I create an EFI for Hackintosh with Gigabyte Z490UD Motherboard.
+I created an EFI folder for a Hackintosh with a Gigabyte Z490UD Motherboard.
 
 - You must adapt your Platform info (Serial Number, MLB, ROM, UUID) if you want to use Facetime/Imessage.
 # Bios Settings
@@ -35,8 +35,8 @@ I create an EFI for Hackintosh with Gigabyte Z490UD Motherboard.
 | SMBIOS | Imac 20,1 |
 
 # Dedicated GPU
-- If you have a dedicated GPU (like AMD 5700XT) you must :  
-		- Disable serial port on bios setting to avoid blackscreen at boot  
+- If you have a dedicated GPU (like the AMD 5700XT) you must :  
+		- Disable the serial port on bios setting to avoid a blackscreen at boot  
 		- Add "agdpmod=pikera" boot-arg  
 		- Replace in config.plist AAPL,ig-platform-id from 07009B3E to 0300C89B   
 		
