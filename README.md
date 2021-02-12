@@ -26,6 +26,7 @@ I created an EFI folder for a Hackintosh with a Gigabyte Z490UD Motherboard.
 # Hardware Info
 | Component | Info |
 | ------------- | ------------- |
+| Motherboard |Gigabyte Z490UD |
 | CPU  | Intel i7 10700K  |
 | iGPU  | Intel® UHD Graphics 630 |
 | RAM  | 2x8Go DDR4 3200 MHZ  |
@@ -33,6 +34,7 @@ I created an EFI folder for a Hackintosh with a Gigabyte Z490UD Motherboard.
 | Lan  | Realtek  |
 | Audio | Realtek  |
 | SMBIOS | Imac 20,1 |
+
 
 # Dedicated GPU
 - If you have a dedicated GPU (like the AMD 5700XT) you must :  
